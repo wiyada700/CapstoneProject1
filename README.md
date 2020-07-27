@@ -1,1 +1,6 @@
 # CapstoneProject1
+The business of opening an Indian restaurant in Nakhon Ratchasima.
+1. Description of the problem and discussion of the background.
+Nowadays, there are a modest number of Indian people living in Thailand. A study of opening of Indian restaurants in Thailand. Especially in Bangkok, there are Indian restaurants in the center of Bangkok. And in other provinces where there are Thai people of Indian descent, such as in Nakhon Ratchasima According to the survey, no Indian restaurants were opened at all. Therefore, there is an idea to run an Indian restaurant business in Jung Wang, Nakhon Ratchasima.
+2. Explanation of data and methods to be used to solve problems.
+The opening of an Indian restaurant. Because Thai people and Thai people of Indian descent are distributed in various provinces in Thailand. And by using data Foursquare to explore the comparative study of opening Indian restaurants only in Bangkok. In other provinces, such as Nakhon Ratchasima, there are no Indian restaurants. Therefore, to solve the problem of lack of Indian restaurants. Therefore having an idea to run an Indian restaurant business in Nakhon Ratchasima, Thailand. By focusing on opening a restaurant to eat in the store and delivery to home Because at this time in the situation of COVID-19.
